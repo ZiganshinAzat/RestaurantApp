@@ -1,0 +1,39 @@
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Application.dll
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Domain.dll
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Application.pdb
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+/Users/ziganshinazat/Desktop/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Application.dll
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Domain.dll
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Application.pdb
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/bin/Debug/net8.0/Domain.pdb
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.sourcelink.json
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache
+/Users/ziganshinazat/Desktop/semwork ASP/sem-work-asp-ZiganshinAzat/RestaurantApp/RestaurantAppServer/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
